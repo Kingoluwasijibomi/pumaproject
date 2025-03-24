@@ -54,7 +54,7 @@ label, input{
 
 .Nbar>h2{
     padding-right: 6rem;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
 }
 .Nbar>p{
     margin-left: 1rem;
@@ -68,7 +68,7 @@ label, input{
     color:#EE5514;
 }
 .arrow{
-    border: 3px solid black;
+    /* border: 3px solid black; */
     height: 79vh;
     width: 30rem;
     border-top-left-radius:2900rem;
@@ -92,11 +92,11 @@ button{
 }
 
 .left{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     /* width: 900rem; */
 }
 .right{
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     margin: -12px;
     margin-left: 23rem;
     /* padding-left:120px; */
@@ -161,7 +161,7 @@ li{
     
      height: 28em;
      
-    border:1px solid red;
+    /* border:1px solid red; */
     /* padding-inline: 50px; */
 }
 
@@ -188,11 +188,11 @@ li{
 
 }
 .front{
-    border: solid 1px blue;
+    /* border: solid 1px blue; */
     width: 33rem;
 }
 .VidCont{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     padding-inline: 50px;
     /* margin-left: -10rem; */
 margin-right: 13rem;
@@ -206,12 +206,12 @@ margin-right: 13rem;
     margin-inline: 37px;
     width: 20rem;
 
-    border: 5px solid #F6B599;
+    /* border: 5px solid #F6B599; */
 }
 
 
  .imgCont-wrapper{
-    border:4px solid red;
+    /* border:4px solid red; */
     height:17rem;
     object-fit: cover; 
     max-width:25rem;
@@ -297,7 +297,7 @@ margin-right: 13rem;
 }
 
 .content{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     border-radius: 10px;
     padding-inline: 19px;
     padding-block: 19px;
@@ -314,7 +314,7 @@ margin-right: 13rem;
 }
 
 .front>h1{
-border: 1px solid green;
+/* border: 1px solid green; */
 padding-block: 16px;;
 }
 
@@ -324,14 +324,14 @@ padding-block: 16px;;
 
 .cardcontainer{
 
-    border:1px solid blue;
+    /* border:1px solid blue; */
 
 }
 .features{
     height:40rem;
 }
 .features>h1{
-    border:1px solid blueviolet; 
+    /* border:1px solid blueviolet;  */
     padding-block: 10px;
     /* margin: 10px auto;   */
     padding-left: 18rem;
@@ -344,7 +344,7 @@ padding-block: 16px;;
     padding-block: 10px;
 }
 .card{
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     display:grid;
     grid-template-columns: 1fr 1fr 1fr;
     height: 60vh;
@@ -394,7 +394,7 @@ padding-block: 16px;;
 
    
 .package>h3{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     padding-left:5.5rem;
     margin-top:14rem;
 }
@@ -417,20 +417,20 @@ padding-block: 16px;;
     
 } */
 .package>i,.package1>i{
-    border: 1px solid blue; 
+    /* border: 1px solid blue;  */
     /* margin-bottom:10px; */
     /* padding-bottom: 200px; */
 }
 
 .Tbar{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: grid;
     grid-template-columns: .5fr .5fr .5fr .5fr .5fr 1fr;
 
 }
 
 .Tbar>span{
-    border: 1px solid blueviolet;
+    /* border: 1px solid blueviolet; */
     padding-left: 270px;
     /* gap: 2rem; */
   font-size: 1.4rem;
@@ -450,7 +450,7 @@ padding-block: 16px;;
 }
 
 .Icard{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     margin-inline:18px ;
     height: 21rem;
     justify-items: center;
@@ -463,23 +463,23 @@ padding-block: 16px;;
 }
 
 .tesimoney{
-    border: 1px solid green;
+    /* border: 1px solid green; */
     /* height: 80vh; */
     padding-top: 70px;
 }
 .tesimoney>h1{
-border:1px solid #EE5514;
+/* border:1px solid #EE5514; */
 padding-left: 23rem;
 }
 .Result{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     display: grid;
     grid-template-columns:1fr 1fr ;
     gap: 1rem;
 }
 
 .IMGCont{
-    border: 1px solid palevioletred;
+    /* border: 1px solid palevioletred; */
     margin-inline:70px;
     height: 44vh;
     border-radius: 20px;
@@ -491,7 +491,7 @@ padding-left: 23rem;
 
 }
 .carry{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display:flex;
     margin-top:40px;
     /* padding-right: 40px;; */
@@ -510,7 +510,7 @@ padding-left: 23rem;
 }
 
 .carry>span{
-    border: 4px solid gold;
+    /* border: 4px solid gold; */
     margin-left: 150px;
     display: flex;
     padding-top: 17px;
@@ -535,7 +535,7 @@ padding-left: 23rem;
 }
 
 .form>p{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     width:20em;
     padding-block: 20px;
     padding-left: 16px;
@@ -549,10 +549,10 @@ padding-left: 23rem;
 }
 
 .newsletter>img{
-    border: 5px solid blue;
+    /* border: 5px solid blue; */
 }
 .newsletter{
-    border: 1px solid orangered;
+    /* border: 1px solid orangered; */
     border-radius: 10px;
     margin-top: 7rem;
     gap: 1rem;
@@ -561,7 +561,7 @@ padding-left: 23rem;
 /* footer codes */
 
 .footer{
-    border: 1px solid grey;
+    /* border: 1px solid grey; */
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     height: 50vh;
@@ -587,7 +587,7 @@ top:191.5em;
 }
 .form2{
     display: flex;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     padding-block: 20px;
     /* padding-left: 5px; */
     /* margin-left: 32px; */
@@ -597,11 +597,11 @@ top:191.5em;
 }
 .form2>p{
     margin-left: 7px;
-    border:1px solid red;
+    /* border:1px solid red; */
     padding: 9px;
 }
 .form2>button{
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     /* padding-: 10px; */
 }
 
@@ -695,18 +695,18 @@ body{
     /* color: black; */
 }
 .pack{
-    border: 1px solid green;
+    /* border: 1px solid green; */
     display:block;
 }
 .first{
-    border:1px solid blue;
+    /* border:1px solid blue; */
     /* padding-right: -40px; */
     width: 23rem;
     /* margin-right: -200px; */
 }
 
 .imgCont-wrapper{
-    border:4px solid red;
+    /* border:4px solid red; */
     height:17rem;
     object-fit: cover;
     max-width:25rem;
@@ -747,7 +747,7 @@ body{
 } 
 
 .img-Nav{
-    border: 1px solid yellow;
+    /* border: 1px solid yellow; */
     margin:29px;
     top:10px;
     left:190px;
@@ -756,7 +756,7 @@ body{
 /* center codes */
 
 .joint{
-    border: 4px solid purple;
+    /* border: 4px solid purple; */
     margin-top: 16rem;
     margin-bottom: 16rem;
     display: block;
@@ -774,7 +774,7 @@ body{
 
 
 .content{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     padding-inline: 19px;
     padding-block: 19px;
     width: 23rem;
@@ -790,13 +790,13 @@ body{
 .VidCont{
     /* height: 20px ; */
     /* font-size: 2px; */
-    border: 1px solid red;
+    /* border: 1px solid red; */
     /* width: 20px;; */
     margin-top:60px ;
 }
 
 .VidCont>img{
-    border: 1px solid green;
+    /* border: 1px solid green; */
     height:10rem; 
 
 }
@@ -805,14 +805,14 @@ body{
 /* features codes */
 
 .features>h3,.features>h1 {
-    border: 4px solid red;
+    /* border: 4px solid red; */
     /* height: 10px; */
     /* padding-right: 40px; */
     font-size: 20px;
 }
 
 .features>h1{
-    border:1px solid blueviolet; 
+    /* border:1px solid blueviolet;  */
     padding-block: 8px;
     /* margin: 10px auto;   */
     padding-left: 3.4rem;
@@ -826,7 +826,7 @@ body{
 }
 
 .card{
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     display:grid;
     grid-template-columns: 1fr 1fr 1fr;
     height: 60vh;
@@ -838,7 +838,7 @@ body{
 }
 
 .package{
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     /* margin-inline: .5rem; */
     width: 9rem;
     height:14rem;
@@ -859,7 +859,7 @@ body{
 
 }
 .package>p{
-    border: 1px solid purple;
+    /* border: 1px solid purple; */
     margin-top: 10px;
     padding-bottom: -50px;;
     /* width: 5px; */
@@ -867,7 +867,7 @@ body{
 .package>h4{
    margin-top: 10px;
     padding-left:29px;
-    border:1px solid green;
+    /* border:1px solid green; */
 }
 
 
@@ -903,12 +903,12 @@ body{
 
 /* gallary */
 .gallary>h1{
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     font-size:26px;
 }
 
 .Tbar{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: grid;
     grid-template-columns: .5fr .5fr .5fr .5fr .5fr 1fr;
 /* width: 25rem; */
@@ -916,7 +916,7 @@ gap: .6rem;
 padding-block: 10px;
 }
 .Tbar>span{
-    border: 1px solid blueviolet;
+    /* border: 1px solid blueviolet; */
     padding-left: 0px;
     /* gap: 2rem; */
   font-size: 1.1rem;
@@ -925,7 +925,7 @@ padding-block: 10px;
 }
 
 .carD{
-    border: 1px solid yellow;
+    /* border: 1px solid yellow; */
     overflow-x:auto;
  scroll-snap-type:x mandatory;
 }
@@ -938,7 +938,7 @@ padding-block: 10px;
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 .Icard{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     margin-inline:0px ;
     height: 18rem;
     width:10rem;
@@ -975,18 +975,18 @@ padding: 10px;
 /* tesimoney */
 
 .tesimoney>h1{
-    border:1px solid #EE5514;
+    /* border:1px solid #EE5514; */
     padding-left: 2rem;
     }
     .Result{
-        border: 1px solid black;
+        /* border: 1px solid black; */
         display: grid;
         grid-template-columns:1fr 1fr ;
         gap: 1rem;
     }
      
     .IMGCont{
-        border: 1px solid palevioletred;
+        /* border: 1px solid palevioletred; */
         /* margin-inline:70px; */
         height: 44vh;
         border-radius: 20px;
@@ -1012,7 +1012,7 @@ padding: 10px;
 }
 
 .service{
-    border: 3px solid blue;
+    /* border: 3px solid blue; */
     margin-inline:30px ;
 }
 .newsletter{
@@ -1023,7 +1023,7 @@ padding: 10px;
 }
 
 .news{
-    border: 3px solid blue;
+    /* border: 3px solid blue; */
     width:21rem;
     margin-left: 15px;
 }
@@ -1039,16 +1039,16 @@ padding: 10px;
 /* footer */
 
 .footer{
-    border: 4px solid orange;
+    /* border: 4px solid orange; */
     padding-inline:10px ;
 }
 
 .Plogo, .ourservice, .support, .contactus, .form2{
-    border: 4px solid pink;
+    /* border: 4px solid pink; */
       font-size: 10px;
 }
 .Plogo>h2{
-    border:1px solid blue;
+    /* border:1px solid blue; */
     padding-left:10px;
 /* padding-top: -210px; */
 font-size: 18px;
@@ -1057,7 +1057,7 @@ font-size: 18px;
 
 .form2{
     display: flex;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     padding-block: 20px;
     font-size: 17px;
     padding-left: 17px;
@@ -1128,7 +1128,7 @@ top:256.9em;
   
  
   .hamburger {
-    border: solid black 1px; 
+    /* border: solid black 1px;  */
     display: block;
     background: red;
     color:#EE5514;
